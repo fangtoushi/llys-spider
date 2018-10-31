@@ -1,4 +1,4 @@
-import requests, os, re, os, json
+import requests, os, re, json
 from multiprocessing import Pool
 
 class Lian():
